@@ -1,5 +1,15 @@
 import java.util.Scanner;
 
+/** Project:Lab5
+ * Purpose Details:Security assignment
+ * Course:IST242
+ * Author:Aidan Ramirez
+ * Date Developed: 11/3
+ * Last Date Changed:11/3
+ * Rev:
+
+ */
+
 
 //createKeySquare: Generates a 5x5 grid based on the keyword.
 //formatText: Formats plaintext into digraphs (pairs), adding "X" for repeated letters or at the end if needed.
